@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(7, 5, 5);
+
 }
 
 
@@ -27,7 +27,7 @@ body{
 
 p{
     top: 5%;
-    color: rgb(245, 224, 35);
+    color: rgb(0, 1, 59);
     font: bolder;
     font-size: large;
 }
