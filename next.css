@@ -1,7 +1,7 @@
 .text-box{
     position: absolute;
     top: 50%;
-    left: 80%;
+    left: 30%;
     width: 300px;
     height: 700px;
     padding: 50px;
@@ -20,7 +20,7 @@
 }
 
 p{
-    color: rgb(25, 171, 197);
+    color: rgb(4, 24, 139);
     font: bolder;
     font-size: large;
 }
